@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Maskeddogg
-- 👀 I’m interested in App,web developing and hacking 
-- 🌱 I’m currently learning Css
-- 📫 How to reach me @maskeddog telegram username
-
-<!---
-Maskeddogg/Maskeddogg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div{
+    background: linear-gradient(45deg,white,#ccffff,#ffcccc);
+    width: 300px;
+    height:; 300px;
+    margin: auto;
+    border-radius: 80px;
+}
+</style>
+</head>
+<body>
+<div>My name is Girum(maskeddogg) i learned web developing from freecodecamp.org i am 16 yrs old </div>
+</body>
+</html>
